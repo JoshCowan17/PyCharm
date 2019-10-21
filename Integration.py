@@ -28,6 +28,30 @@ def run_test(question):
         garyScore= 0
         krabsScore= 0
         planktonScore= 0
+        
+        while not quiz_end:
+    if questions == 1:
+        print("which of these foods would you choose?")
+        input(print("Money, Chum, IceCream, or KrabbyPatties")
+
+        if input == Money or money
+        (mrKrabs + 1)
+
+        else input == Chum or chum
+        (plankton + 1)
+
+        if input == Icecream or icecream
+        (patrick + 1)
+
+        else input == Krabbypatties or krabbypatties or KrabbyPatties
+        (spongebob + 1)
+        (sandy + 1)
+
+
+    if questions == 2
+    print("What is your favorite color?")
+
+    questions += 1
     #Figure out how to fix test(quiz question loop)
 for question in question_prompts:
     selection = input(question.prompt)
