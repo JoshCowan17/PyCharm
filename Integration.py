@@ -1,3 +1,7 @@
+"""
+
+___Author___ = Joshua Cowan
+"""
 print("Welcome! To the Spongebob Squarepants quiz!"), '\n'
 print(
     'Here you will be asked a series of questions regarding food, activities,'
