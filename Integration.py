@@ -24,7 +24,8 @@ mrkrabs = 0
 plankton = 0
 spongebob = 0
 squidward = 0
-
+#Mike and Victoria helped me create this loop, though I never
+#got the classes stuff to work, so I had to make a long loop
 while not quiz_end:
     if questions == 1:
         print()
