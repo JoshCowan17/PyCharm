@@ -1,5 +1,9 @@
-import random
+___Author___
+___JoshuaCowan__
 
+import random
+# Credit to cruces13(git) who I saw post a similar generator on reddit
+# I incorporated some of his class and structure ideas
 # Input Values
 Races = ['Human', 'Half-Elf', 'Elf', 'Dwarf', 'Half-Orc', 'Halfing', 'Tiefling'
          , 'Dragonborn', 'Gnome']
@@ -58,7 +62,7 @@ def class_generator():
 def background_generator():
     print(Selected_Background)
 
-
+# Print Random Alignment
 def alignment_generator():
     print(Selected_Alignment)
 
